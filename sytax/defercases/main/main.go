@@ -3,11 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/28267/algorithmCases/sytax/util"
+	"github.com/28267/algorithmCases/sytax/defercases/util"
 )
 
 func main() {
-
 	// res := f4()
 	// fmt.Println("f4函数返回值= ", res)
 	// res1 := f1()
